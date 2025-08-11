@@ -127,3 +127,83 @@
 // else {
 //     document.write("Grade: Fail");
 // }
+
+//_______question_7_________//
+
+//  var secretNumber = 1
+//  var userAnswer = +prompt("Guess the secret number (between 1 and 10):")
+//  if (userAnswer === secretNumber) {
+//     alert("bravo!! correct answer")
+    
+//  } else {
+//     alert("sorry try again")
+//     var secretNumber = 1
+//  var userAnswer = +prompt("Guess the secret number (between 1 and 10):")
+//  if (userAnswer === secretNumber) {
+//     alert("bravo!! correct answer")
+    
+//  } else {
+//     alert("sorry try again")
+    
+//  }
+    
+//  }
+
+//_______question_8_________//
+
+//  var userNumber = +prompt("enter any number")
+//  if (userNumber % 3 === 0) {
+//     alert("The number is divisible by 3")
+    
+//  } else {
+//     alert("The number is not divisible by 3")
+//  }
+
+//_______question_9_________//
+// var userNumber = +prompt("enter any number")
+//   if (userNumber % 2 === 0 ) {
+//      alert("The number is even number")
+  
+//  } else if (userNumber % 2 !== 0) {
+//     alert("The number is an odd number")
+//   } else{
+//     alert("enter correct number")
+//   }
+
+//_______question_10_________//
+
+// var outSideTemprature = +prompt("enter out side temprature")
+// if (outSideTemprature > 40 ) {
+//     alert("it is to Hot out side")
+// } else if(outSideTemprature > 30){
+//        alert("today's weather is normal")
+// }else if (outSideTemprature > 20){
+//        alert("the out side weather is cool")
+// } else if (outSideTemprature > 10){
+//     alert("OMG! Today’s weather is so Cool.")
+// } else{
+//     alert("enter correct tamperature")
+// }
+
+//_______question_11_________//
+
+//  var num1 = +prompt("enter number one")
+//  var num2 = +prompt("enter number two")
+//  var operation = prompt("enter operation (+, -, % , / , * ):")
+
+//  if (operation === "+") {
+//     alert("result :" + (num1 + num2))
+    
+//  } else if( (operation === "-")) {
+//     alert("result :" + (num1 - num2))
+
+//  }  else if( (operation === "*")) {
+//     alert("result :" + (num1 * num2))
+//  }  else if( (operation === "/")) {
+//     alert("result :" + (num1 / num2))
+//  }
+//   else if( (operation === "%")) {
+//     alert("result :" + (num1 % num2))
+//  } else{
+//     alert("enter correct number")
+//  }
