@@ -73,11 +73,27 @@
 // }
 
 //_______question__6__________
- var greeting;
- var hour = 13;
-if (hour < 18) {
-greeting = "Good day";
-}else{
-greeting = "Good evening";
-}
-console.log(greeting);
+//  var greeting;
+//  var hour = 13;
+// if (hour < 18) {
+// greeting = "Good day";
+// }else{
+// greeting = "Good evening";
+// }
+// console.log(greeting);
+
+//_______question__7__________
+// var time = +prompt("Enter time in 24 hours format (e.g., 1900 for 7pm):");
+
+// if (time >= 0 && time < 1200) {
+//   alert("Good Morning!");
+// } else if (time >= 1200 && time < 1700) {
+//   alert("Good Afternoon!");
+// } else if (time >= 1700 && time < 2100) {
+//   alert("Good Evening!");
+// } else if (time >= 2100 && time <= 2359) {
+//   alert("Good Night!");
+// } else {
+//   alert("Invalid time format!");
+// }
+
