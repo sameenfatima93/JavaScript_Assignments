@@ -121,3 +121,6 @@
 // //console.log( typeof Number(str)); //convert with number
 // //console.log( typeof parseFloat(str)); //convert with parsefloat
 // console.log( str + " type of is " + typeof str + parseInt(str) + " type of is " + typeof parseInt(str) );
+
+
+//_____ to be contenued soon_____________
